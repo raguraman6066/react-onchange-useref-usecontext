@@ -1,0 +1,35 @@
+{
+    "post":[
+        {
+          "id": 1,
+          "title": "Introduction to Flutter",
+          "content": "Flutter is an open-source UI software development kit created by Google. It is used to develop cross-platform applications from a single codebase.",
+          "created_at": "2024-03-10T10:00:00Z"
+        },
+        {
+          "id": 2,
+          "title": "Understanding Clean Architecture",
+          "content": "Clean Architecture is a software design philosophy that separates code into layers, improving maintainability and testability.",
+          "created_at": "2024-03-10T11:15:00Z"
+        },
+        {
+          "id": 3,
+          "title": "Getting Started with FastAPI",
+          "content": "FastAPI is a modern, fast web framework for building APIs with Python. It provides automatic documentation and high performance.",
+          "created_at": "2024-03-10T12:30:00Z"
+        },
+        {
+          "id": 4,
+          "title": "Test-Driven Development in Flutter",
+          "content": "TDD is a software development process where tests are written before the implementation, ensuring better code quality and reliability.",
+          "created_at": "2024-03-10T13:45:00Z"
+        },
+        {
+          "id": 5,
+          "title": "OAuth2 Authentication Explained",
+          "content": "OAuth2 is an authorization framework that allows secure API access without exposing user credentials, commonly used for social login.",
+          "created_at": "2024-03-10T15:00:00Z"
+        }
+      ]
+      
+}

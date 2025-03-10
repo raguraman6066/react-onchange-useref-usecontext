@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
+import Counter from "./Counter";
 
 function Login() {
   const [pwd1, setPwd1] = useState("");
@@ -22,6 +24,8 @@ function Login() {
 
   return (
     <>
+      <Counter />
+      <Link to={"/"}>Home</Link>
       <form className="my-5 mx-5">
         <div className="mb-3">
           <label for="exampleInputEmail1" className="form-label">
